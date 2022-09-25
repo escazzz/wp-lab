@@ -1,3 +1,4 @@
+//COPYRIGHT 2022 escazzz
 #include <iostream>
 
 int main() {
